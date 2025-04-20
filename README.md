@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@ilia_ssss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ilia_ssss" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ilias farah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ilias farah" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ilias-farah-ba1164294/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ilias farah" height="30" width="40" /></a>
 <a href="https://instagram.com/ilia_sssssssssss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ilia_sssssssssss" height="30" width="40" /></a>
 <a href="https://discord.gg/androidman6414" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="androidman6414" height="30" width="40" /></a>
 </p>
